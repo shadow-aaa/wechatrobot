@@ -1,0 +1,262 @@
+[2024-03-14 15:21:27.748] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <?xml version="1.0"?>
+<msg>
+	<img aeskey="4c81fcad0db5876e89c521c8e7852711" encryver="1" cdnthumbaeskey="4c81fcad0db5876e89c521c8e7852711" cdnthumburl="3057020100044b3049020100020407cb3efe02032f5c9d0204a4a93db7020465f2a575042464326636356439662d336335342d343063392d393033352d333336323263636535373237020405250a020201000405004c54a100" cdnthumblength="4590" cdnthumbheight="120" cdnthumbwidth="97" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3057020100044b3049020100020407cb3efe02032f5c9d0204a4a93db7020465f2a575042464326636356439662d336335342d343063392d393033352d333336323263636535373237020405250a020201000405004c54a100" length="37160" md5="35de26cbefeb2f8549ad0438ff5ae23b" hevc_mid_size="37160" originsourcemd5="5b50cc1a566b99ab6ab023b0f4db1e0e" />
+	<platform_signature></platform_signature>
+	<imgdatahash></imgdatahash>
+	<ImgSourceInfo>
+		<ImgSourceUrl></ImgSourceUrl>
+		<BizType>0</BizType>
+	</ImgSourceInfo>
+</msg>
+
+[2024-03-14 15:21:27.748] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 1781
+[2024-03-14 15:23:27.578] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='5'>
+<username>43806374575@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"3353283427991046614","MsgCreateTime":"1710400828000"}</arg>
+</op>
+</msg>
+[2024-03-14 15:23:27.578] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 410
+[2024-03-14 15:23:31.880] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>49167145054@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"887710215432991331","MsgCreateTime":"1710400815000"}</arg>
+</op>
+</msg>
+[2024-03-14 15:23:31.880] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 409
+[2024-03-14 15:23:38.362] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>48888652657@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"882632939700854182","MsgCreateTime":"1710400886000"}</arg>
+</op>
+</msg>
+[2024-03-14 15:23:38.362] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 409
+[2024-03-14 15:30:34.413] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-14 15:30:34.418] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-14 15:30:34.418] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:30:34.418] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-03-14 15:30:34.418] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 23
+[2024-03-14 15:30:34.419] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-03-14 15:30:34.419] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:30:44.030] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>43806374575@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"3353283427991046614","MsgCreateTime":"1710400828000"}</arg>
+</op>
+</msg>
+[2024-03-14 15:30:44.030] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 410
+[2024-03-14 15:30:50.698] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 3333
+[2024-03-14 15:30:50.699] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 247
+[2024-03-14 15:31:13.561] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 2414
+[2024-03-14 15:31:13.561] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 310
+[2024-03-14 15:31:13.561] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-14 15:31:13.562] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:13.562] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-14 15:31:13.563] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:14.764] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 6789
+[2024-03-14 15:31:14.764] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 367
+[2024-03-14 15:31:14.764] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-14 15:31:14.765] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:14.765] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-14 15:31:14.766] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:14.906] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-14 15:31:13
+[2024-03-14 15:31:14.906] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-14 15:31:15.884] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-14 15:31:14
+[2024-03-14 15:31:15.885] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-14 15:31:22.047] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 114514
+[2024-03-14 15:31:22.047] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 369
+[2024-03-14 15:31:23.254] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 7964
+[2024-03-14 15:31:23.254] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 310
+[2024-03-14 15:31:23.255] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-14 15:31:23.255] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:23.255] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-14 15:31:23.257] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:24.215] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-14 15:31:23
+[2024-03-14 15:31:24.215] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-14 15:31:25.488] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 2324
+[2024-03-14 15:31:25.488] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 367
+[2024-03-14 15:31:25.488] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-14 15:31:25.489] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:25.489] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-14 15:31:25.490] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:26.413] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-14 15:31:25
+[2024-03-14 15:31:26.413] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-14 15:31:27.097] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 4535
+[2024-03-14 15:31:27.097] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 367
+[2024-03-14 15:31:27.098] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-14 15:31:27.098] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:27.098] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-14 15:31:27.099] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:28.087] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-14 15:31:27
+[2024-03-14 15:31:28.088] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-14 15:31:28.530] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 5252
+[2024-03-14 15:31:28.530] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 367
+[2024-03-14 15:31:28.531] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-14 15:31:28.531] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:28.531] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-14 15:31:28.533] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:29.573] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-14 15:31:28
+[2024-03-14 15:31:29.573] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-14 15:31:29.573] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 454362
+[2024-03-14 15:31:29.573] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 369
+[2024-03-14 15:31:30.545] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 2342
+[2024-03-14 15:31:30.545] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 367
+[2024-03-14 15:31:30.546] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-14 15:31:30.546] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:30.546] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-14 15:31:30.547] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:30.954] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 42345
+[2024-03-14 15:31:30.954] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 368
+[2024-03-14 15:31:31.554] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-14 15:31:30
+[2024-03-14 15:31:31.554] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-14 15:31:47.096] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: abcd
+[2024-03-14 15:31:47.096] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 311
+[2024-03-14 15:31:54.182] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 1234
+[2024-03-14 15:31:54.182] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 310
+[2024-03-14 15:31:54.182] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-14 15:31:54.183] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:54.183] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-14 15:31:54.184] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:31:55.260] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-14 15:31:54
+[2024-03-14 15:31:55.260] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-14 15:32:01.054] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 1 23 4
+[2024-03-14 15:32:01.055] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 369
+[2024-03-14 15:32:17.604] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 3 3 45
+[2024-03-14 15:32:17.604] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 369
+[2024-03-14 15:32:21.666] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 455 3
+[2024-03-14 15:32:21.666] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 368
+[2024-03-14 15:32:27.290] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 4234
+[2024-03-14 15:32:27.290] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 367
+[2024-03-14 15:32:27.291] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-14 15:32:27.291] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:32:27.291] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-14 15:32:27.293] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:32:28.367] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-14 15:32:27
+[2024-03-14 15:32:28.367] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-14 15:33:37.044] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 1111
+[2024-03-14 15:33:37.045] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 310
+[2024-03-14 15:33:37.045] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-14 15:33:37.046] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:33:37.046] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-14 15:33:37.047] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:33:38.151] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-14 15:33:37
+[2024-03-14 15:33:38.151] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-14 15:33:53.042] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-14 15:34:15.608] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-14 15:34:15.614] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-14 15:34:15.614] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:34:15.614] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-03-14 15:34:15.614] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 23
+[2024-03-14 15:34:15.614] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-03-14 15:34:15.614] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:34:21.311] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 1111
+[2024-03-14 15:34:21.311] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 310
+[2024-03-14 15:34:21.311] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-14 15:34:21.312] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:34:21.312] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-14 15:34:21.313] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:34:22.428] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-14 15:34:21
+[2024-03-14 15:34:22.429] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-14 15:36:31.071] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-14 15:36:31.076] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-14 15:36:31.076] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:36:31.076] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-03-14 15:36:31.076] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 23
+[2024-03-14 15:36:31.077] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-03-14 15:36:31.077] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:36:38.942] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 1234
+[2024-03-14 15:36:38.942] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 310
+[2024-03-14 15:36:38.943] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-14 15:36:38.943] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:36:38.944] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-14 15:36:38.945] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:36:40.124] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-14 15:36:39
+[2024-03-14 15:36:40.124] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-14 15:38:24.253] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-14 15:38:42.239] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-14 15:38:52.301] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-03-14 15:38:52.301] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-03-14 15:38:53.309] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-03-14 15:38:58.093] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-14 15:38:58.094] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-03-14 15:38:58.097] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-14 15:38:58.098] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:38:58.098] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-03-14 15:38:58.098] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 23
+[2024-03-14 15:38:58.098] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-03-14 15:38:58.099] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:38:58.099] [info] [WCF] [rpc_server.cpp::455::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2024-03-14 15:39:05.249] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 1111
+[2024-03-14 15:39:05.249] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 310
+[2024-03-14 15:39:35.031] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-14 15:39:35.036] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-14 15:39:35.036] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:39:35.036] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-03-14 15:39:35.036] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 23
+[2024-03-14 15:39:35.037] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-03-14 15:39:35.037] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:39:40.279] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 1111
+[2024-03-14 15:39:40.279] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 310
+[2024-03-14 15:39:40.280] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-14 15:39:40.280] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:39:40.280] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-14 15:39:40.282] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:39:41.311] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-14 15:39:40
+[2024-03-14 15:39:41.311] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-14 15:40:08.874] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-14 15:40:08.879] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-14 15:40:08.879] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:40:08.880] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-03-14 15:40:08.880] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 23
+[2024-03-14 15:40:08.880] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-03-14 15:40:08.880] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:40:21.486] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 1145
+[2024-03-14 15:40:21.487] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 310
+[2024-03-14 15:40:21.487] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-14 15:40:21.487] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:40:21.488] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-14 15:40:21.489] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:40:22.722] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-14 15:40:21
+[2024-03-14 15:40:22.723] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-14 15:43:15.823] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='5'>
+<username>43806374575@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"5243187244001585495","MsgCreateTime":"1710402021000"}</arg>
+</op>
+</msg>
+[2024-03-14 15:43:15.823] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 410
+[2024-03-14 15:43:22.249] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>gh_b05aec8ffdbd</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"3073267055349026912","MsgCreateTime":"1710402022000"}</arg>
+</op>
+</msg>
+[2024-03-14 15:43:22.249] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 383
+[2024-03-14 15:43:23.380] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='2'>
+<username>43806374575@chatroom</username>
+<name>lastMessage</name>
+<arg>{"messageSvrId":"5243187244001585495","MsgCreateTime":"1710402021000"}</arg>
+</op>
+</msg>
+[2024-03-14 15:43:23.380] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 410
+[2024-03-14 15:44:37.775] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 2234
+[2024-03-14 15:44:37.775] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 333
+[2024-03-14 15:45:15.383] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-14 15:45:52.576] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-14 15:45:52.581] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-14 15:45:52.581] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:45:52.582] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-03-14 15:45:52.582] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 23
+[2024-03-14 15:45:52.582] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-03-14 15:45:52.582] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-14 15:46:14.834] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: hhhh
+[2024-03-14 15:46:14.834] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 310
+[2024-03-14 15:46:21.290] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 你妈
+[2024-03-14 15:46:21.290] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 312
