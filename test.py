@@ -26,6 +26,5 @@ while robot.is_receiving_msg():
                 time.sleep(1.5)
                 msg=robot.get_msg() #接收对分易反馈
                 print(msg.content)
-                break
     except Empty:
         continue  # Empty message
