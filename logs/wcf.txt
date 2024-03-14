@@ -292,3 +292,4 @@
 [2024-03-14 15:51:35.411] [error] [WCF] [rpc_server.cpp::488::PushMessage] msgSock-nng_send: Timed out
 [2024-03-14 15:51:35.411] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 2015
 [2024-03-14 15:52:28.555] [info] [WCF] [rpc_server.cpp::995::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-03-14 15:52:31.577] [info] [WCF] [rpc_server.cpp::446::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
