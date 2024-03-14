@@ -260,3 +260,19 @@
 [2024-03-14 15:46:14.834] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 310
 [2024-03-14 15:46:21.290] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 你妈
 [2024-03-14 15:46:21.290] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 312
+[2024-03-14 15:48:41.157] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <?xml version="1.0"?>
+<msg>
+	<img aeskey="b3a3f799ba09d135ed92a37d830ae23a" encryver="1" cdnthumbaeskey="b3a3f799ba09d135ed92a37d830ae23a" cdnthumburl="3057020100044b304902010002047dfc60c102032f565d02042a41aa3d020465f2abbb042431383839653365392d643230322d343234372d396261392d3563383131373164323334650204052818020201000405004c4ec500" cdnthumblength="7744" cdnthumbheight="150" cdnthumbwidth="122" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3057020100044b304902010002047dfc60c102032f565d02042a41aa3d020465f2abbb042431383839653365392d643230322d343234372d396261392d3563383131373164323334650204052818020201000405004c4ec500" length="105834" md5="95bb9506431ece50ce2eb9b941390342" />
+	<platform_signature></platform_signature>
+	<imgdatahash></imgdatahash>
+	<ImgSourceInfo>
+		<ImgSourceUrl></ImgSourceUrl>
+		<BizType>0</BizType>
+	</ImgSourceInfo>
+</msg>
+
+[2024-03-14 15:48:43.164] [error] [WCF] [rpc_server.cpp::488::PushMessage] msgSock-nng_send: Timed out
+[2024-03-14 15:48:43.164] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 1704
+[2024-03-14 15:49:05.665] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 原来这么赚钱?
+[2024-03-14 15:49:07.677] [error] [WCF] [rpc_server.cpp::488::PushMessage] msgSock-nng_send: Timed out
+[2024-03-14 15:49:07.677] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 303
