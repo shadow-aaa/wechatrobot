@@ -276,3 +276,19 @@
 [2024-03-14 15:49:05.665] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 原来这么赚钱?
 [2024-03-14 15:49:07.677] [error] [WCF] [rpc_server.cpp::488::PushMessage] msgSock-nng_send: Timed out
 [2024-03-14 15:49:07.677] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 303
+[2024-03-14 15:50:18.692] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 心动了？
+[2024-03-14 15:50:20.708] [error] [WCF] [rpc_server.cpp::488::PushMessage] msgSock-nng_send: Timed out
+[2024-03-14 15:50:20.708] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 377
+[2024-03-14 15:50:23.013] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 一条还不到 1 块钱，不赚钱啊。。。
+[2024-03-14 15:50:25.021] [error] [WCF] [rpc_server.cpp::488::PushMessage] msgSock-nng_send: Timed out
+[2024-03-14 15:50:25.021] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 413
+[2024-03-14 15:50:41.029] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 真有用的信息一条就得几百块了。。。
+[2024-03-14 15:50:43.038] [error] [WCF] [rpc_server.cpp::488::PushMessage] msgSock-nng_send: Timed out
+[2024-03-14 15:50:43.038] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 416
+[2024-03-14 15:50:58.904] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 缝纫机踩冒烟
+[2024-03-14 15:51:00.911] [error] [WCF] [rpc_server.cpp::488::PushMessage] msgSock-nng_send: Timed out
+[2024-03-14 15:51:00.911] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 312
+[2024-03-14 15:51:33.396] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg><emoji fromusername = "wxid_d3sxx7g85l5j22" tousername = "49167145054@chatroom" type="2" idbuffer="media:0_0" md5="48cb64f133f1b9970c38c54f6ee13497" len = "119691" productid="" androidmd5="48cb64f133f1b9970c38c54f6ee13497" androidlen="119691" s60v3md5 = "48cb64f133f1b9970c38c54f6ee13497" s60v3len="119691" s60v5md5 = "48cb64f133f1b9970c38c54f6ee13497" s60v5len="119691" cdnurl = "http://vweixinf.tc.qq.com/110/20401/stodownload?m=48cb64f133f1b9970c38c54f6ee13497&amp;filekey=30440201010430302e02016e0402535a04203438636236346631333366316239393730633338633534663665653133343937020301d38b040d00000004627466730000000132&amp;hy=SZ&amp;storeid=265968f670002b9710c6180270000006e01004fb1535a0befb011567207608&amp;ef=1&amp;bizid=1022" designerid = "" thumburl = "" encrypturl = "http://vweixinf.tc.qq.com/110/20402/stodownload?m=05763aa23fdf21f63550183ccc1a5dfe&amp;filekey=30440201010430302e02016e0402535a04203035373633616132336664663231663633353530313833636363316135646665020301d390040d00000004627466730000000132&amp;hy=SZ&amp;storeid=265968f67000379910c6180270000006e02004fb2535a0befb01156720760f&amp;ef=2&amp;bizid=1022" aeskey= "96d93b2ea357425785fdd993f3edba7f" externurl = "http://vweixinf.tc.qq.com/110/20403/stodownload?m=abc59f5332beeda2c0f48a74c1853235&amp;filekey=3043020101042f302d02016e0402535a0420616263353966353333326265656461326330663438613734633138353332333502022c30040d00000004627466730000000132&amp;hy=SZ&amp;storeid=265968f670004616a0c6180270000006e03004fb3535a0befb01156720761e&amp;ef=3&amp;bizid=1022" externmd5 = "de2834275bb20d68b9dc6d98455c733f" width= "300" height= "300" tpurl= "" tpauthkey= "" attachedtext= "" attachedtextcolor= "" lensid= "" emojiattr= "" linkid= "" desc= "" ></emoji> </msg>
+[2024-03-14 15:51:35.411] [error] [WCF] [rpc_server.cpp::488::PushMessage] msgSock-nng_send: Timed out
+[2024-03-14 15:51:35.411] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 2015
+[2024-03-14 15:52:28.555] [info] [WCF] [rpc_server.cpp::995::RunServer] CMD Server listening on tcp://0.0.0.0:10086
