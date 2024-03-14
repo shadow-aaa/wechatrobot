@@ -11,7 +11,7 @@ def judge(str1:str):
     else:
         print("等待签到码中")
         return False
-robot=Wcf(debug=True,block=True)
+robot=Wcf(debug=False,block=True)
 msg=wxmsg
 robot.enable_receiving_msg()
 print("开始接收信息")
