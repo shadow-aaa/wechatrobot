@@ -301,3 +301,6 @@
 [2024-03-14 16:05:01.958] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
 [2024-03-14 16:07:25.036] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
 [2024-03-14 16:07:27.051] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-14 18:46:48.530] [info] [WCF] [rpc_server.cpp::995::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-03-14 18:47:37.914] [info] [WCF] [rpc_server.cpp::446::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2024-03-15 10:40:28.964] [info] [WCF] [rpc_server.cpp::995::RunServer] CMD Server listening on tcp://0.0.0.0:10086

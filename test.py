@@ -1,7 +1,6 @@
 from wcferry import Wcf
 from wcferry import wxmsg
 from queue import Empty
-import time
 def judge(str1:str):
     if str1.isdigit() and len(str1)==4:
         print("接收到签到码，正在发送")
@@ -20,11 +19,10 @@ while robot.is_receiving_msg():
         msg = robot.get_msg()
         if msg.from_self():
             pass
+        elif msg.sender=="gh_b05aec8ffdbd":
+            if msg.content=="签到成功":
+                break
         else:
-            sendcode=judge(msg.content)
-            if sendcode:
-                time.sleep(1.5)
-                msg=robot.get_msg() #接收对分易反馈
-                print(msg.content)
+            judge(msg.content)
     except Empty:
         continue  # Empty message
