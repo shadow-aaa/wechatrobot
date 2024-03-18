@@ -23,7 +23,7 @@ print("开始接收信息")
 while robot.is_receiving_msg():
     try:
         msg = robot.get_msg()
-        if judge(msg)==True:
+        if judge(msg.content)==True:
             robot.send_text(msg,"duifene")
             result=msgfromduifene()
             if result.content.find("签到失败")!=-1:

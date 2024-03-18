@@ -1,0 +1,13 @@
+[2024-03-18 17:52:41.562] [debug] [WCF] [log.cpp::33::InitLogger] InitLogger with debug level
+[2024-03-18 17:52:41.562] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-18 17:52:41.566] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-03-18 17:52:41.570] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-18 17:52:41.570] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 17:52:41.571] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-03-18 17:52:41.571] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 23
+[2024-03-18 17:52:41.571] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-03-18 17:52:41.571] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 17:52:41.572] [info] [WCF] [rpc_server.cpp::455::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2024-03-18 17:52:52.102] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: csdn
+[2024-03-18 17:52:52.102] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 311
+[2024-03-18 17:53:22.428] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 1111
