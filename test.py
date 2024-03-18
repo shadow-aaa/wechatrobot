@@ -24,10 +24,10 @@ while robot.is_receiving_msg():
     try:
         msg = robot.get_msg()
         if judge(msg.content)==True:
-            robot.send_text(msg,"duifene")
+            robot.send_text(msg.content,"duifene")
             result=msgfromduifene()
             if result.content.find("签到失败")!=-1:
-                robot.send_text(msg,"43806374575@chatroom")
+                robot.send_text(msg.content,"43806374575@chatroom")
                 break
     except Empty:
         continue  # Empty message

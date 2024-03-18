@@ -11,3 +11,5 @@
 [2024-03-18 17:52:52.102] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: csdn
 [2024-03-18 17:52:52.102] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 311
 [2024-03-18 17:53:22.428] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 1111
+[2024-03-18 17:53:24.437] [error] [WCF] [rpc_server.cpp::488::PushMessage] msgSock-nng_send: Timed out
+[2024-03-18 17:53:24.437] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 297
