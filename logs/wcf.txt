@@ -13,3 +13,32 @@
 [2024-03-18 17:53:22.428] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 1111
 [2024-03-18 17:53:24.437] [error] [WCF] [rpc_server.cpp::488::PushMessage] msgSock-nng_send: Timed out
 [2024-03-18 17:53:24.437] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 297
+[2024-03-18 17:53:56.854] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-18 17:53:56.859] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-18 17:53:56.859] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 17:53:56.859] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-03-18 17:53:56.859] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 23
+[2024-03-18 17:53:56.860] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-03-18 17:53:56.860] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 17:53:57.460] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 1325
+[2024-03-18 17:53:57.460] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 296
+[2024-03-18 17:54:11.399] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 1222
+[2024-03-18 17:54:13.410] [error] [WCF] [rpc_server.cpp::488::PushMessage] msgSock-nng_send: Timed out
+[2024-03-18 17:54:13.410] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 297
+[2024-03-18 17:54:21.775] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 我擦，各个群都在玩这个
+[2024-03-18 17:54:23.791] [error] [WCF] [rpc_server.cpp::488::PushMessage] msgSock-nng_send: Timed out
+[2024-03-18 17:54:23.791] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 358
+[2024-03-18 17:54:28.390] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 行
+[2024-03-18 17:54:30.404] [error] [WCF] [rpc_server.cpp::488::PushMessage] msgSock-nng_send: Timed out
+[2024-03-18 17:54:30.404] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 311
+[2024-03-18 17:54:30.990] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <?xml version="1.0"?>
+<msg>
+	<img aeskey="93f9d94c2cd0699d5f17788364d1a960" encryver="1" cdnthumbaeskey="93f9d94c2cd0699d5f17788364d1a960" cdnthumburl="3057020100044b304902010002047b0f967d02032f8029020451f73db7020465f80f56042465336665363630312d623931322d346539652d393732382d3764383836353766376536610204052430010201000405004c537500" cdnthumblength="4504" cdnthumbheight="50" cdnthumbwidth="150" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3057020100044b304902010002047b0f967d02032f8029020451f73db7020465f80f56042465336665363630312d623931322d346539652d393732382d3764383836353766376536610204052430010201000405004c537500" length="5549" cdnbigimgurl="3057020100044b304902010002047b0f967d02032f8029020451f73db7020465f80f56042465336665363630312d623931322d346539652d393732382d3764383836353766376536610204052430010201000405004c537500" hdlength="5549" md5="96dca2727bb3f2857d4b91c5b9301741" originsourcemd5="96dca2727bb3f2857d4b91c5b9301741" />
+	<platform_signature></platform_signature>
+	<imgdatahash></imgdatahash>
+	<ImgSourceInfo>
+		<ImgSourceUrl></ImgSourceUrl>
+		<BizType>0</BizType>
+	</ImgSourceInfo>
+</msg>
+
