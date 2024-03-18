@@ -6291,3 +6291,305 @@ Mirror:女的大三男的高二出轨养小三
 [2024-03-18 21:03:02.159] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
 [2024-03-18 21:03:03.319] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-18 21:03:03
 [2024-03-18 21:03:03.319] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-18 21:04:17.026] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-18 21:04:17.032] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-18 21:04:17.032] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:04:17.032] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-03-18 21:04:17.032] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 23
+[2024-03-18 21:04:17.033] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-03-18 21:04:17.033] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:04:29.634] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <sysmsg type="mmchatroombarannouncememt">
+    <mmchatroombarannouncememt>
+        <content><![CDATA[明天早上的石磨肠粉现在开启秒杀啦！由于是天气冷了，肠粉容易凉，已经改用保温打包盒，需要用原来的环保打包盒的同学也可以备注。
+
+每天只有一次送上楼！自提的提前1个小时止单！
+
+星期一到星期五是7:40分之前送上楼，止单是6:30分。
+每个周六周日都是9点10分之前送到楼上，止单是7:30分
+
+每个肠粉商品的后面都有时间，每天早上送两趟，一个是7:40分，一个是9：10分，如果选定点取餐就是：自提；如果选外送就是：送上楼，但要加1元配送费，其它时间段没有配送上楼，大家一定要记得备注好楼栋丶男生女生丶宿舍号。。]]></content>
+        <xmlcontent><![CDATA[<group_notice_item type="18">
+	<edittime>1710767067</edittime>
+	<ctrlflag>127</ctrlflag>
+	<version>1</version>
+	<source sourcetype="6" sourceid="5bb20583e7a10247bf5d348cf3e7f75e">
+		<fromusr>wxid_amid22jhfz4q22</fromusr>
+		<tousr>44051203007@chatroom</tousr>
+		<sourceid>5bb20583e7a10247bf5d348cf3e7f75e</sourceid>
+	</source>
+	<datalist count="2">
+		<dataitem datatype="8" dataid="9b4a00dcb2c5349abcba81bdbd302178" htmlid="WeNoteHtmlFile">
+			<datafmt>.htm</datafmt>
+			<cdn_dataurl>http://wxapp.tc.qq.com/264/20303/stodownload?m=5887ca11f783b779db3483d6bb07d52a&amp;filekey=30340201010420301e020201080402535a04105887ca11f783b779db3483d6bb07d52a020202f0040d00000004627466730000000132&amp;hy=SZ&amp;storeid=265f83bdc000c4fee2ce72c8e0000010800004f4f535a11ff30115766642e5&amp;bizid=1023</cdn_dataurl>
+			<cdn_thumbkey>1ca339a1a4661361dcaf002d11c329aa</cdn_thumbkey>
+			<cdn_datakey>273faaca62da8d2ff2a5db415aeba5e1</cdn_datakey>
+			<fullmd5>11d1747220fe9698fc17745243519909</fullmd5>
+			<head256md5>a1c512c7b92b7ef25fc1f05644cbeeb2</head256md5>
+			<fullsize>738</fullsize>
+		</dataitem>
+		<dataitem datatype="1" dataid="d464b66750a73e4f97739c535be2dd33" htmlid="-1">
+			<datadesc>明天早上的石磨肠粉现在开启秒杀啦！由于是天气冷了，肠粉容易凉，已经改用保温打包盒，需要用原来的环保打包盒的同学也可以备注。
+
+每天只有一次送上楼！自提的提前1个小时止单！
+
+星期一到星期五是7:40分之前送上楼，止单是6:30分。
+每个周六周日都是9点10分之前送到楼上，止单是7:30分
+
+每个肠粉商品的后面都有时间，每天早上送两趟，一个是7:40分，一个是9：10分，如果选定点取餐就是：自提；如果选外送就是：送上楼，但要加1元配送费，其它时间段没有配送上楼，大家一定要记得备注好楼栋丶男生女生丶宿舍号。。</datadesc>
+			<dataitemsource sourcetype="6" />
+		</dataitem>
+	</datalist>
+	<weburlitem>
+		<appmsgshareitem>
+			<itemshowtype>-1</itemshowtype>
+		</appmsgshareitem>
+	</weburlitem>
+	<announcement_id>wxid_amid22jhfz4q22_44051203007@chatroom_1710767068_107329145</announcement_id>
+</group_notice_item>
+]]></xmlcontent>
+        <announcement_id><![CDATA[wxid_amid22jhfz4q22_44051203007@chatroom_1710767068_107329145]]></announcement_id>
+    </mmchatroombarannouncememt>
+</sysmsg>
+[2024-03-18 21:04:29.634] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 3451
+[2024-03-18 21:04:29.635] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <?xml version="1.0"?>
+<msg>
+    <appmsg appid="" sdkver="0">
+        <type>87</type>
+        <url>https://support.weixin.qq.com/cgi-bin/mmsupport-bin/readtemplate?t=page/common_page__upgrade&amp;btn_text=btn_text_0&amp;text=text008</url>
+        <announcement><![CDATA[<group_notice_item type="18">
+	<edittime>1710767067</edittime>
+	<ctrlflag>127</ctrlflag>
+	<version>1</version>
+	<source sourcetype="6" sourceid="5bb20583e7a10247bf5d348cf3e7f75e">
+		<fromusr>wxid_amid22jhfz4q22</fromusr>
+		<tousr>44051203007@chatroom</tousr>
+		<sourceid>5bb20583e7a10247bf5d348cf3e7f75e</sourceid>
+	</source>
+	<datalist count="2">
+		<dataitem datatype="8" dataid="9b4a00dcb2c5349abcba81bdbd302178" htmlid="WeNoteHtmlFile">
+			<datafmt>.htm</datafmt>
+			<cdn_dataurl>http://wxapp.tc.qq.com/264/20303/stodownload?m=5887ca11f783b779db3483d6bb07d52a&amp;filekey=30340201010420301e020201080402535a04105887ca11f783b779db3483d6bb07d52a020202f0040d00000004627466730000000132&amp;hy=SZ&amp;storeid=265f83bdc000c4fee2ce72c8e0000010800004f4f535a11ff30115766642e5&amp;bizid=1023</cdn_dataurl>
+			<cdn_thumbkey>1ca339a1a4661361dcaf002d11c329aa</cdn_thumbkey>
+			<cdn_datakey>273faaca62da8d2ff2a5db415aeba5e1</cdn_datakey>
+			<fullmd5>11d1747220fe9698fc17745243519909</fullmd5>
+			<head256md5>a1c512c7b92b7ef25fc1f05644cbeeb2</head256md5>
+			<fullsize>738</fullsize>
+		</dataitem>
+		<dataitem datatype="1" dataid="d464b66750a73e4f97739c535be2dd33" htmlid="-1">
+			<datadesc>明天早上的石磨肠粉现在开启秒杀啦！由于是天气冷了，肠粉容易凉，已经改用保温打包盒，需要用原来的环保打包盒的同学也可以备注。
+
+每天只有一次送上楼！自提的提前1个小时止单！
+
+星期一到星期五是7:40分之前送上楼，止单是6:30分。
+每个周六周日都是9点10分之前送到楼上，止单是7:30分
+
+每个肠粉商品的后面都有时间，每天早上送两趟，一个是7:40分，一个是9：10分，如果选定点取餐就是：自提；如果选外送就是：送上楼，但要加1元配送费，其它时间段没有配送上楼，大家一定要记得备注好楼栋丶男生女生丶宿舍号。。</datadesc>
+			<dataitemsource sourcetype="6" />
+		</dataitem>
+	</datalist>
+	<weburlitem>
+		<appmsgshareitem>
+			<itemshowtype>-1</itemshowtype>
+		</appmsgshareitem>
+	</weburlitem>
+	<announcement_id>wxid_amid22jhfz4q22_44051203007@chatroom_1710767068_107329145</announcement_id>
+</group_notice_item>
+]]></announcement>
+        <textannouncement><![CDATA[明天早上的石磨肠粉现在开启秒杀啦！由于是天气冷了，肠粉容易凉，已经改用保温打包盒，需要用原来的环保打包盒的同学也可以备注。
+
+每天只有一次送上楼！自提的提前1个小时止单！
+
+星期一到星期五是7:40分之前送上楼，止单是6:30分。
+每个周六周日都是9点10分之前送到楼上，止单是7:30分
+
+每个肠粉商品的后面都有时间，每天早上送两趟，一个是7:40分，一个是9：10分，如果选定点取餐就是：自提；如果选外送就是：送上楼，但要加1元配送费，其它时间段没有配送上楼，大家一定要记得备注好楼栋丶男生女生丶宿舍号。。]]></textannouncement>
+        <xmlpuretext><![CDATA[1]]></xmlpuretext>
+        <announcement_id><![CDATA[wxid_amid22jhfz4q22_44051203007@chatroom_1710767068_107329145]]></announcement_id>
+    </appmsg>
+    <fromusername><![CDATA[wxid_amid22jhfz4q22]]></fromusername>
+    <appinfo>
+        <version>1</version>
+        <appname />
+    </appinfo>
+</msg>
+[2024-03-18 21:04:29.635] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 4002
+[2024-03-18 21:04:41.231] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 用代理了也打不开……
+[2024-03-18 21:04:41.231] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 324
+[2024-03-18 21:04:42.211] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 自用专线机场【8.8元/月】：https://unolink.pics/#/register?code=tcCh1CVh
+自用Hy2机场【6.8元/月】：https://www.xiaoliyu.me/#/register?code=b2GgsyAT
+自用中转机场 【15元/月】：https://coco2.buzz/#/register?code=DRhuUDh0
+
+注册免费30天，可无限白嫖加速器：https://www.onezyh.cn/824.html
+注册免费365天，可无限白嫖加速器：https://www.onezyh.cn/1797.html
+[2024-03-18 21:04:42.212] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 701
+[2024-03-18 21:04:49.075] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 9998
+[2024-03-18 21:04:49.075] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 297
+[2024-03-18 21:04:49.076] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-18 21:04:49.077] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:04:50.213] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-18 21:04:50
+[2024-03-18 21:04:50.213] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-18 21:05:05.346] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x40[Functions_FUNC_DISABLE_RECV_TXT] length: 2
+[2024-03-18 21:05:05.347] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:05:05.373] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-03-18 21:05:05.373] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-03-18 21:05:06.374] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
+[2024-03-18 21:05:15.213] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-18 21:05:15.213] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-03-18 21:05:15.218] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-18 21:05:15.218] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:05:15.218] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-03-18 21:05:15.218] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 23
+[2024-03-18 21:05:15.218] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-03-18 21:05:15.219] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:05:15.219] [info] [WCF] [rpc_server.cpp::455::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2024-03-18 21:05:19.791] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+    <appmsg appid="" sdkver="0">
+        <title><![CDATA[隐藏在《壬学琐记》当中的顶尖六壬高手]]></title>
+        <des><![CDATA[]]></des>
+        <action></action>
+        <type>5</type>
+        <showtype>1</showtype>
+        <content><![CDATA[]]></content>
+        <contentattr>1</contentattr>
+        <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzU0MDU4MTA5Mw==&mid=2247484303&idx=1&sn=7b07c4e1c4c00b8b5b20a3c91fcc95e4&chksm=faff5db9f9fd46bf786aeefc131806ea83225abb18dfab65403f2a320553473a909473f126ae&scene=0&xtrack=1#rd]]></url>
+        <lowurl><![CDATA[]]></lowurl>
+        <appattach>
+            <totallen>0</totallen>
+            <attachid></attachid>
+            <fileext></fileext>
+        </appattach>
+        <extinfo></extinfo>
+        <mmreader>
+            <category type="20" count="1">
+                <name><![CDATA[青岛崂山九天国学研究院]]></name>
+                <topnew>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/lIWodNUelBZiaf6oDPd7AAicDIDzydhib0rGLT5AQB9sdAJmMqaaNBaBYJyxa4BgbcFIAlFibmLtoAxPLgEF6hQ0tg/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <width>0</width>
+                    <height>0</height>
+                    <digest><![CDATA[]]></digest>
+                </topnew>
+                
+                <item>
+                    <has_redpacket_cover>0</has_redpacket_cover>
+                    <text_title><![CDATA[]]></text_title>
+                    <itemshowtype>0</itemshowtype>
+                    <title><![CDATA[隐藏在《壬学琐记》当中的顶尖六壬高手]]></title>
+                    <url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzU0MDU4MTA5Mw==&mid=2247484303&idx=1&sn=7b07c4e1c4c00b8b5b20a3c91fcc95e4&chksm=fafff2c7953f53b2eb455f8e10bf5541bd82d3767b5b86b3b0f3f65314d14c7164325645128d&scene=0&xtrack=1#rd]]></url>
+                    <shorturl><![CDATA[]]></shorturl>
+                    <longurl><![CDATA[]]></longurl>
+                    <pub_time>1710767033</pub_time>
+                    <summary><![CDATA[   程树勋先生所著《壬学琐记》一书，大家并不陌生，该书记录了程树勋先生学壬的点点滴滴，该书也被认为是继《六壬断案》、《六壬指南》以来的又一壬学经典，其记录了程公学壬、用壬的过程，并总结出了壬占的要领]]></summary>
+                    <cover><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/lIWodNUelBZiaf6oDPd7AAicDIDzydhib0rGLT5AQB9sdAJmMqaaNBaBYJyxa4BgbcFIAlFibmLtoAxPLgEF6hQ0tg/640?wxtype=jpeg&wxfrom=0]]></cover>
+                    <tweetid></tweetid>
+                    <digest><![CDATA[]]></digest>
+                    <fileid>100000261</fileid>
+                    <sources>
+                        <source>
+                            <name><![CDATA[青岛崂山九天国学研究院]]></name>
+                        </source>
+                    </sources>
+                    <styles></styles>
+                    <native_url></native_url>
+                    <del_flag>0</del_flag>
+                    <contentattr>1</contentattr>
+                    <play_length>0</play_length>
+                    <play_url><![CDATA[]]></play_url>
+                    <voice_id><![CDATA[]]></voice_id>
+                    <tid><![CDATA[]]></tid>
+                    <nonce_id><![CDATA[]]></nonce_id>
+                    <voice_type>0</voice_type>
+<player><![CDATA[]]></player>
+                     
+                    
+                    <music_source>0</music_source>
+                    <pic_num>0</pic_num>
+                    <vid></vid>
+                    <author><![CDATA[]]></author>
+                    <recommendation><![CDATA[]]></recommendation>
+                    <pic_urls></pic_urls>
+                    <multi_picture_cover></multi_picture_cover>
+                    <comment_topic_id>3375152454564282370</comment_topic_id>
+                    <cover_235_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/lIWodNUelBZiaf6oDPd7AAicDIDzydhib0rGLT5AQB9sdAJmMqaaNBaBYJyxa4BgbcFIAlFibmLtoAxPLgEF6hQ0tg/640?wxtype=jpeg&wxfrom=0]]></cover_235_1>
+                    <cover_1_1><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/lIWodNUelBZiaf6oDPd7AAicDIDzydhib0rHG5WvniaWzNPUDGoDasv98ReHpZGpxribPIMj3jMb12BFtuHFMrUpYkw/300?wxtype=jpeg&wxfrom=0]]></cover_1_1>
+                    <cover_16_9><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/lIWodNUelBZiaf6oDPd7AAicDIDzydhib0rGLT5AQB9sdAJmMqaaNBaBYJyxa4BgbcFIAlFibmLtoAxPLgEF6hQ0tg/640?wxtype=jpeg&wxfrom=0]]></cover_16_9>
+                    <appmsg_like_type>2</appmsg_like_type>
+                    <video_width>0</video_width>
+                    <video_height>0</video_height>
+                    <is_pay_subscribe>0</is_pay_subscribe>
+			<finder_feed>
+			    <object_id><![CDATA[]]></object_id>
+			    <object_nonce_id><![CDATA[]]></object_nonce_id>
+			    <feed_type>0</feed_type>
+			    <nickname><![CDATA[]]></nickname>
+			    <avatar><![CDATA[]]></avatar>
+			    <desc><![CDATA[]]></desc>
+			    <media_count>0</media_count>
+			    <media_list>
+				
+			    </media_list>
+			    <mega_video>
+				<object_id><![CDATA[]]></object_id>
+				<object_nonce_id><![CDATA[]]></object_nonce_id>
+			    </mega_video>
+			</finder_feed>
+                        <finder_live>
+                            <finder_username><![CDATA[]]></finder_username>
+                            <category><![CDATA[]]></category>
+                            <finder_nonce_id><![CDATA[]]></finder_nonce_id>
+                            <export_id><![CDATA[]]></export_id>
+                            <nickname><![CDATA[]]></nickname>
+                            <head_url><![CDATA[]]></head_url>
+                            <desc><![CDATA[]]></desc>
+                            <live_status></live_status>
+                            <live_source_type_str><![CDATA[]]></live_source_type_str>
+                            <ext_flag></ext_flag>
+                            <auth_icon_url><![CDATA[]]></auth_icon_url>
+                            <auth_icon_type_str><![CDATA[]]></auth_icon_type_str>
+                            <media>
+                                <cover_url><![CDATA[]]></cover_url>
+                                <height></height>
+                                <width></width>
+                            </media>
+                        </finder_live>
+                </item>
+                
+            </category>
+            <publisher>
+                <username><![CDATA[gh_ae33d8e13dad]]></username>
+                <nickname><![CDATA[青岛崂山九天国学研究院]]></nickname>
+            </publisher>
+            <template_header></template_header>
+            <template_detail></template_detail>
+            <forbid_forward>0</forbid_forward>
+        </mmreader>
+        <thumburl><![CDATA[https://mmbiz.qpic.cn/sz_mmbiz_jpg/lIWodNUelBZiaf6oDPd7AAicDIDzydhib0rGLT5AQB9sdAJmMqaaNBaBYJyxa4BgbcFIAlFibmLtoAxPLgEF6hQ0tg/640?wxtype=jpeg&wxfrom=0]]></thumburl>
+    </appmsg>
+    <fromusername><![CDATA[gh_ae33d8e13dad]]></fromusername>
+    <appinfo>
+        <version></version>
+        <appname><![CDATA[青岛崂山九天国学研究院]]></appname>
+        <isforceupdate>1</isforceupdate>
+    </appinfo>
+    
+    
+    
+    
+    
+    
+</msg>
+[2024-03-18 21:05:19.792] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 7673
+[2024-03-18 21:05:19.792] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 2
+[2024-03-18 21:05:19.792] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 294
+[2024-03-18 21:05:22.812] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 4325
+[2024-03-18 21:05:22.812] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 297
+[2024-03-18 21:05:22.813] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 19
+[2024-03-18 21:05:22.814] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:05:23.871] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 签到失败，请在下课后找老师补签2024-03-18 21:05:24
+[2024-03-18 21:05:23.871] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 491
+[2024-03-18 21:05:23.873] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x20[Functions_FUNC_SEND_TXT] length: 32
+[2024-03-18 21:05:23.873] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:05:23.873] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x40[Functions_FUNC_DISABLE_RECV_TXT] length: 2
+[2024-03-18 21:05:23.874] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:05:23.899] [error] [WCF] [rpc_server.cpp::1015::RunServer] cmdSock-nng_recv error: Object closed
+[2024-03-18 21:05:23.899] [debug] [WCF] [rpc_server.cpp::1043::RunServer] Leave RunServer
+[2024-03-18 21:05:24.915] [info] [WCF] [rpc_server.cpp::1071::RpcStopServer] Server stoped.
