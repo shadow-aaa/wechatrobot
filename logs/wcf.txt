@@ -7698,3 +7698,62 @@ Mirror:女的大三男的高二出轨养小三
 [2024-03-18 21:16:35.534] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: 9999
 [2024-03-18 21:16:35.534] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 297
 [2024-03-18 21:21:58.514] [debug] [WCF] [log.cpp::33::InitLogger] InitLogger with debug level
+[2024-03-18 21:21:58.514] [debug] [WCF] [spy.cpp::30::InitSpy] WeChat version: 3.9.2.23
+[2024-03-18 21:21:58.517] [info] [WCF] [rpc_server.cpp::1004::RunServer] CMD Server listening on tcp://0.0.0.0:10086
+[2024-03-18 21:21:58.533] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-18 21:21:58.533] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:21:59.539] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-18 21:21:59.539] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:22:00.542] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-18 21:22:00.542] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:22:01.551] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-18 21:22:01.551] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:22:02.563] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x01[Functions_FUNC_IS_LOGIN] length: 2
+[2024-03-18 21:22:02.563] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:22:02.563] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x10[Functions_FUNC_GET_SELF_WXID] length: 2
+[2024-03-18 21:22:02.564] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 23
+[2024-03-18 21:22:05.568] [debug] [WCF] [rpc_server.cpp::852::dispatcher] 0x30[Functions_FUNC_ENABLE_RECV_TXT] length: 4
+[2024-03-18 21:22:05.568] [debug] [WCF] [rpc_server.cpp::1021::RunServer] Send data length 4
+[2024-03-18 21:22:05.569] [info] [WCF] [rpc_server.cpp::455::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2024-03-18 21:22:08.196] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='4'>
+<username>43806374575@chatroom,gh_b05aec8ffdbd,gh_05bf2da02620,gh_54ac3ca4821a,gh_4132cd5238e8,gh_39c8fb2fc8b4,23532095903@chatroom,gh_2682ac8b838c,21834552465@chatroom,filehelper,wxid_u3xdnoicg67822,44333774524@chatroom,wxid_eqr01lxzs37m22,44051203007@chatroom,49595754311@chatroom,gh_ae33d8e13dad,49167145054@chatroom,48888652657@chatroom,23081215053@chatroom,38799285252@chatroom,gh_331d43c09b3b,34439485907@chatroom,wxid_ooh7k240zy6v22,gh_7524f20253aa,43633712308@chatroom,gh_05999b9c3882,gh_3ee2f7c1990f,gh_581d5ad9e600,49607760291@chatroom,gh_f97dcdfc9622,48915886229@chatroom,gh_3dfda90e39d6,39113991057@chatroom,gh_b1338642ecf9,gh_d61d8c78451c,gh_f82fa05de4d0,gh_cb4b30c6db84,48157976497@chatroom,48519886281@chatroom,48418673904@chatroom,49317541372@chatroom,48292687199@chatroom,wxid_xvo50anzp57z22,wxid_h2cqyhwum8522,gh_d5c25339a9e5,gh_c903ec2fac79,gh_016ebea7f6e9,gh_75dea2d6c71f,45097776402@chatroom,wxid_eg180heinqz622,wxid_8yq6i22malzj12,gh_6465551c5737,gh_0162a05959ea,21167358598@chatroom,huangwen__guangdong,gh_a1d4f13b623f,39281591486@chatroom,wxid_2rlv087zn21w22,45329511690@chatroom,wxid_nksnl88ivhs112,38706884884@chatroom,18179459133@chatroom,wxid_dwqvu0lbicm822,wxid_7ixr48zqy21t22,gh_e7ff1c02b448,49830350149@chatroom,39117082310@chatroom,notifymessage,wxid_io5myi786sho22,wxid_2sgby07xtcun22,gh_354553aa3d59,gh_30e5b5c848c0,39259008261@chatroom,wxid_8fnbmrb9zf3821,gh_cc066325f865,wxid_9vsk22sgly3722,gh_f69ca2f2f2af,wxid_mraywf154uam22,gh_dd77c231b2f4,wxid_j0w53mxffyik12,wxid_amid22jhfz4q22,wxid_vj6k6tb2vmwy22,wxid_hsy7ww0s77x122,wxid_i0rwlhychnq222,wxid_joqc97c33uv222,wxid_6oteh31aokum22,wxid_imd4kwxtuulv22,wxid_f0x6dm61q9s422,wxid_j99c5r1yv2cc22,wxid_usrwysnzw4gw22,wxid_kjrpxqjltnbf22,wxid_05ta3gcrkqyq22,wxid_b2hskpackt5w22,wxid_cyh84oh2ret021,wxid_cfizrozp6pbf22,wxid_mf2rswcadm8122,wxid_jzwhugebpqyt22,gh_48cbe9c2dbc8,wxid_kbmb7kvai61g21,gh_4d27f98a55b9</username>
+<unreadchatlist>
+</unreadchatlist>
+<hasreadchatlist>
+</hasreadchatlist>
+<unreadfunctionlist>
+</unreadfunctionlist>
+<hasreadfunctionlist>
+</hasreadfunctionlist>
+</op>
+</msg>
+[2024-03-18 21:22:08.196] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 2301
+[2024-03-18 21:22:15.299] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='4'>
+<username>43806374575@chatroom,gh_b05aec8ffdbd,gh_05bf2da02620,gh_54ac3ca4821a,gh_4132cd5238e8,gh_39c8fb2fc8b4,23532095903@chatroom,gh_2682ac8b838c,21834552465@chatroom,filehelper,wxid_u3xdnoicg67822,44333774524@chatroom,wxid_eqr01lxzs37m22,44051203007@chatroom,49595754311@chatroom,gh_ae33d8e13dad,49167145054@chatroom,48888652657@chatroom,23081215053@chatroom,38799285252@chatroom,gh_331d43c09b3b,34439485907@chatroom,wxid_ooh7k240zy6v22,gh_7524f20253aa,43633712308@chatroom,gh_05999b9c3882,gh_3ee2f7c1990f,gh_581d5ad9e600,49607760291@chatroom,gh_f97dcdfc9622,48915886229@chatroom,gh_3dfda90e39d6,39113991057@chatroom,gh_b1338642ecf9,gh_d61d8c78451c,gh_f82fa05de4d0,gh_cb4b30c6db84,48157976497@chatroom,48519886281@chatroom,48418673904@chatroom,49317541372@chatroom,48292687199@chatroom,wxid_xvo50anzp57z22,wxid_h2cqyhwum8522,gh_d5c25339a9e5,gh_c903ec2fac79,gh_016ebea7f6e9,gh_75dea2d6c71f,45097776402@chatroom,wxid_eg180heinqz622,wxid_8yq6i22malzj12,gh_6465551c5737,gh_0162a05959ea,21167358598@chatroom,huangwen__guangdong,gh_a1d4f13b623f,39281591486@chatroom,wxid_2rlv087zn21w22,45329511690@chatroom,wxid_nksnl88ivhs112,38706884884@chatroom,18179459133@chatroom,wxid_dwqvu0lbicm822,wxid_7ixr48zqy21t22,gh_e7ff1c02b448,49830350149@chatroom,39117082310@chatroom,notifymessage,wxid_io5myi786sho22,wxid_2sgby07xtcun22,gh_354553aa3d59,gh_30e5b5c848c0,39259008261@chatroom,wxid_8fnbmrb9zf3821,gh_cc066325f865,wxid_9vsk22sgly3722,gh_f69ca2f2f2af,wxid_mraywf154uam22,gh_dd77c231b2f4,wxid_j0w53mxffyik12,wxid_amid22jhfz4q22,wxid_vj6k6tb2vmwy22,wxid_hsy7ww0s77x122,wxid_i0rwlhychnq222,wxid_joqc97c33uv222,wxid_6oteh31aokum22,wxid_imd4kwxtuulv22,wxid_f0x6dm61q9s422,wxid_j99c5r1yv2cc22,wxid_usrwysnzw4gw22,wxid_kjrpxqjltnbf22,wxid_05ta3gcrkqyq22,wxid_b2hskpackt5w22,wxid_cyh84oh2ret021,wxid_cfizrozp6pbf22,wxid_mf2rswcadm8122,wxid_jzwhugebpqyt22,gh_48cbe9c2dbc8,wxid_kbmb7kvai61g21,gh_4d27f98a55b9</username>
+<unreadchatlist>
+</unreadchatlist>
+<hasreadchatlist>
+</hasreadchatlist>
+<unreadfunctionlist>
+</unreadfunctionlist>
+<hasreadfunctionlist>
+</hasreadfunctionlist>
+</op>
+</msg>
+[2024-03-18 21:22:15.299] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 2301
+[2024-03-18 21:22:24.186] [debug] [WCF] [rpc_server.cpp::479::PushMessage] Push msg: <msg>
+<op id='4'>
+<username>43806374575@chatroom,gh_b05aec8ffdbd,gh_05bf2da02620,gh_54ac3ca4821a,gh_4132cd5238e8,gh_39c8fb2fc8b4,23532095903@chatroom,gh_2682ac8b838c,21834552465@chatroom,filehelper,wxid_u3xdnoicg67822,44333774524@chatroom,wxid_eqr01lxzs37m22,44051203007@chatroom,49595754311@chatroom,gh_ae33d8e13dad,49167145054@chatroom,48888652657@chatroom,23081215053@chatroom,38799285252@chatroom,gh_331d43c09b3b,34439485907@chatroom,wxid_ooh7k240zy6v22,gh_7524f20253aa,43633712308@chatroom,gh_05999b9c3882,gh_3ee2f7c1990f,gh_581d5ad9e600,49607760291@chatroom,gh_f97dcdfc9622,48915886229@chatroom,gh_3dfda90e39d6,39113991057@chatroom,gh_b1338642ecf9,gh_d61d8c78451c,gh_f82fa05de4d0,gh_cb4b30c6db84,48157976497@chatroom,48519886281@chatroom,48418673904@chatroom,49317541372@chatroom,48292687199@chatroom,wxid_xvo50anzp57z22,wxid_h2cqyhwum8522,gh_d5c25339a9e5,gh_c903ec2fac79,gh_016ebea7f6e9,gh_75dea2d6c71f,45097776402@chatroom,wxid_eg180heinqz622,wxid_8yq6i22malzj12,gh_6465551c5737,gh_0162a05959ea,21167358598@chatroom,huangwen__guangdong,gh_a1d4f13b623f,39281591486@chatroom,wxid_2rlv087zn21w22,45329511690@chatroom,wxid_nksnl88ivhs112,38706884884@chatroom,18179459133@chatroom,wxid_dwqvu0lbicm822,wxid_7ixr48zqy21t22,gh_e7ff1c02b448,49830350149@chatroom,39117082310@chatroom,notifymessage,wxid_io5myi786sho22,wxid_2sgby07xtcun22,gh_354553aa3d59,gh_30e5b5c848c0,39259008261@chatroom,wxid_8fnbmrb9zf3821,gh_cc066325f865,wxid_9vsk22sgly3722,gh_f69ca2f2f2af,wxid_mraywf154uam22,gh_dd77c231b2f4,wxid_j0w53mxffyik12,wxid_amid22jhfz4q22,wxid_vj6k6tb2vmwy22,wxid_hsy7ww0s77x122,wxid_i0rwlhychnq222,wxid_joqc97c33uv222,wxid_6oteh31aokum22,wxid_imd4kwxtuulv22,wxid_f0x6dm61q9s422,wxid_j99c5r1yv2cc22,wxid_usrwysnzw4gw22,wxid_kjrpxqjltnbf22,wxid_05ta3gcrkqyq22,wxid_b2hskpackt5w22,wxid_cyh84oh2ret021,wxid_cfizrozp6pbf22,wxid_mf2rswcadm8122,wxid_jzwhugebpqyt22,gh_48cbe9c2dbc8,wxid_kbmb7kvai61g21,gh_4d27f98a55b9</username>
+<unreadchatlist>
+</unreadchatlist>
+<hasreadchatlist>
+</hasreadchatlist>
+<unreadfunctionlist>
+</unreadfunctionlist>
+<hasreadfunctionlist>
+</hasreadfunctionlist>
+</op>
+</msg>
+[2024-03-18 21:22:24.186] [debug] [WCF] [rpc_server.cpp::490::PushMessage] Send data length 2301
