@@ -1,6 +1,7 @@
 from wcferry import Wcf
 from wcferry import wxmsg
 from queue import Empty
+import time
 def judge(code:str):
     if code.isdigit() and len(code)==4:
         return True
@@ -20,8 +21,10 @@ def msgfromduifene():
 robot=Wcf(debug=True,block=True)
 msg=wxmsg
 result=wxmsg
-robot.enable_receiving_msg()
 print("机器人！启动！")
+print("略过同步消息")
+time.sleep(5)
+robot.enable_receiving_msg()
 print("开始接收消息")
 while robot.is_receiving_msg():
     try:
