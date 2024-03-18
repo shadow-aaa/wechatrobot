@@ -11,7 +11,9 @@ def msgfromduifene():
     while 1:
         try:
             result=robot.get_msg()
-            if result.sender=="duifene":
+            if result.sender=="gh_b05aec8ffdbd":
+                print("已接收到对分易消息")
+                print(result.content)
                 return result
         except Empty:
             continue
@@ -27,7 +29,6 @@ while robot.is_receiving_msg():
             robot.send_text(msg.content,"duifene")
             result=msgfromduifene()
             if result.content.find("签到失败")!=-1:
-                print("find方法成功")
                 robot.send_text(msg.content,"43806374575@chatroom")
                 break
     except Empty:
