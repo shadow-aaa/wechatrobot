@@ -364,3 +364,37 @@
 [2024-03-15 11:36:14.698] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
 [2024-03-15 12:38:55.131] [info] [WCF] [rpc_server.cpp::995::RunServer] CMD Server listening on tcp://0.0.0.0:10086
 [2024-03-15 12:38:58.150] [info] [WCF] [rpc_server.cpp::446::PushMessage] MSG Server listening on tcp://0.0.0.0:10087
+[2024-03-15 12:48:15.007] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:48:30.811] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:48:37.146] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:48:44.864] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:48:49.384] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:49:00.759] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:49:06.775] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:49:11.115] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:49:13.462] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:51:07.791] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:51:30.260] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:52:08.590] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:52:13.945] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:52:24.946] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:52:28.931] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:52:37.632] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:52:40.323] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:52:42.335] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:52:44.351] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:52:46.367] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:52:53.218] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:52:56.586] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:53:02.347] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:53:04.357] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:53:11.632] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:53:13.648] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:53:15.664] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:53:17.679] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:53:19.695] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:53:21.711] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:53:23.727] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:53:32.883] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-15 12:53:45.961] [error] [WCF] [rpc_server.cpp::479::PushMessage] msgSock-nng_send: Timed out
+[2024-03-18 15:32:41.156] [info] [WCF] [rpc_server.cpp::995::RunServer] CMD Server listening on tcp://0.0.0.0:10086
