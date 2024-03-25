@@ -34,6 +34,7 @@ while robot.is_receiving_msg():
             result=msgfromduifene()
             if result.content.find("签到成功")!=-1:
                 robot.send_text(msg.content,"43806374575@chatroom")
+                robot.send_text("大的来了，都别睡","43806374575@chatroom")
                 break
     except Empty:
         continue  # Empty message
