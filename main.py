@@ -18,7 +18,7 @@ def msgfromduifene():
                 return result
         except Empty:
             continue
-robot=Wcf(debug=True,block=True)
+robot=Wcf(debug=False,block=True)
 msg=wxmsg
 result=wxmsg
 print("机器人！启动！")
