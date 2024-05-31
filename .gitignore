@@ -2,3 +2,4 @@
 .wcf.lock
 lc.txt
 .gitignore
+/__pycache__
