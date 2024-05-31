@@ -15,4 +15,8 @@
 3. 安装mitmproxy需要的CA证书，安装方法可参考：https://blog.csdn.net/feiyu68/article/details/119665869
 4. 运行main.py文件
 
+## 已知bug
+
+存放的路径有空格的话无法进行监听
+
 ## 如果喜欢不妨点个star

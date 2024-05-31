@@ -1,1 +1,4 @@
 /logs
+.wcf.lock
+lc.txt
+.gitignore
