@@ -69,21 +69,7 @@ def start_listen():
 #   对终端信息进行了过滤
 
 
-lc_file_path = os.path.join(os.path.dirname(
-    os.path.abspath(__file__)), 'lc.txt')
-urllib3.disable_warnings()
-robot = Wcf(debug=False, block=True)
-if __name__ == "__main__":
-    # 机器人启动显示
-    print("机器人！启动！")
-    print("略过同步消息")  # 对分易同时接收太多消息会禁止账号签到
-    time.sleep(5)
-    robot.enable_receiving_msg()
-    print("请手动打开对分易的快速签到，随便输入签到码进行签到，程序会监听登录代码")
-    if (os.path.isfile(lc_file_path)):
-        os.remove(lc_file_path)
-    start_listen()
-    time.sleep(10)
+def getlc():
     while True:
         try:
             with open(lc_file_path, 'r') as f:
@@ -91,7 +77,30 @@ if __name__ == "__main__":
                 break
         except FileNotFoundError:
             print("等待登录代码获取")
-            time.sleep(1)
+            time.sleep(2)
+
+
+def clearlc():
+    if (os.path.isfile(lc_file_path)):
+        os.remove(lc_file_path)
+
+
+lc_file_path = os.path.join(os.path.dirname(
+    os.path.abspath(__file__)), 'lc.txt')
+urllib3.disable_warnings()
+robot = Wcf(debug=False, block=True)
+
+if __name__ == "__main__":
+    # 机器人启动显示
+    print("机器人！启动！")
+    print("略过同步消息")  # 对分易同时接收太多消息会禁止账号签到
+    time.sleep(5)
+    robot.enable_receiving_msg()
+    print("请手动打开对分易的快速签到，随便输入签到码进行签到，程序会监听登录代码")
+    start_listen()
+    clearlc()
+    time.sleep(10)  # 等待手动打开对分易快速签到
+    getlc()
     print("监听已结束，系统代理已关闭，请注意与其它代理软件的冲突")
     print("登录代码已获取，等待签到码中")
     while robot.is_receiving_msg():
