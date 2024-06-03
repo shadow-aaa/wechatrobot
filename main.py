@@ -76,7 +76,7 @@ def getlc():
                 fixed_postdata['lc'] = f.read().strip()
                 break
         except FileNotFoundError:
-            print("等待登录代码获取")
+            print("等待登录代码获取,看不到如何获取登录代码建议把眼睛捐掉")
             time.sleep(2)
 
 
