@@ -76,7 +76,7 @@ def getlc():
                 fixed_postdata['lc'] = f.read().strip()
                 break
         except FileNotFoundError:
-            print("请手动获取登陆代码,看不到如何获取登录代码建议把眼睛捐掉")
+            print("请手动打开对分易的快速签到，随便输入签到码进行签到，程序会监听登录代码")
             time.sleep(2)
 
 
@@ -96,7 +96,6 @@ if __name__ == "__main__":
     print("略过同步消息")  # 对分易同时接收太多消息会禁止账号签到
     time.sleep(5)
     robot.enable_receiving_msg()
-    print("请手动打开对分易的快速签到，随便输入签到码进行签到，程序会监听登录代码")
     start_listen()
     clearlc()
     time.sleep(10)  # 等待手动打开对分易快速签到
