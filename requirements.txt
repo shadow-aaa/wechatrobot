@@ -2,3 +2,4 @@ mitmproxy==10.3.0
 Requests==2.32.3
 urllib3==2.2.1
 wcferry==39.0.14.1
+winproxy==0.3.0a1
