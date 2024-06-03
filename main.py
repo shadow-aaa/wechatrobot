@@ -98,7 +98,6 @@ if __name__ == "__main__":
     robot.enable_receiving_msg()
     start_listen()
     clearlc()
-    time.sleep(10)  # 等待手动打开对分易快速签到
     getlc()
     print("监听已结束，系统代理已关闭，请注意与其它代理软件的冲突")
     print("登录代码已获取，等待签到码中")
