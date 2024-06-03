@@ -14,6 +14,7 @@
 2. 使用`pip install -r requirements.txt`来安装本项目需要的库
 3. 安装mitmproxy需要的CA证书，安装方法可参考：https://blog.csdn.net/feiyu68/article/details/119665869
 4. 运行main.py文件
+5. 注意终端的使用提示
 
 ## 已知bug
 
