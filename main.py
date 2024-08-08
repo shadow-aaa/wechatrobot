@@ -33,7 +33,7 @@ data_field = {
     "typeid": 1,
     "accesstype": 6
 }
-# 只有lc和code需要填写
+# 只有lc和code需要获取，code为签到码，通过微信聊天获取
 # 数据包部分结束
 
 
@@ -41,20 +41,21 @@ def codejudge(code: str):  # 接收并判断消息是否为四位数字
     return code.isdigit() and len(code) == 4
 
 
-def checkin(code: str):
+def checkin(code: str):  # 发起签到
     data_field["code"] = code
     encoded_data_field = urllib.parse.quote(
         json.dumps(data_field, separators=(',', ':')))
     finaldata = f"a={fixed_postdata['a']}&lc={fixed_postdata['lc']}&data={encoded_data_field}"
     response = requests.post(url, headers=headers,
                              data=finaldata, verify=False)
-    print(response.content.decode('utf-8'))  # 暂做测试用
+    print(response.content.decode('utf-8'))  # 用于显示签到结果
     if "签到成功" in response.content.decode("utf-8"):
+        # 签到成功后通过群聊id转发给指定的群聊，群聊id可以通过机器人的其它函数获取
         robot.send_text(code, "43806374575@chatroom")
         robot.send_text("大的来了，都别睡", "43806374575@chatroom")
 
 
-def start_listen():
+def start_listen():  # 开启另一个进程，监听lc
     script_path = os.path.dirname(os.path.abspath(__file__))
     Popen('winproxy set --all 127.0.0.1:7654', stdout=open(os.devnull,
           'w'), stderr=open(os.devnull, 'w')).communicate()
@@ -66,10 +67,10 @@ def start_listen():
     print("开始监听")
     Popen(f'mitmdump -s {script_path}/listen.py -p 7654',
           stdout=open(os.devnull, 'w'))
-#   对终端信息进行了过滤
+#   对终端信息进行了删除
 
 
-def getlc():
+def getlc():  # 拼接监听到的lc
     while True:
         try:
             with open(lc_file_path, 'r') as f:
@@ -80,32 +81,40 @@ def getlc():
             time.sleep(2)
 
 
-def clearlc():
+def clearlc():  # 清楚残余文本文件
     if (os.path.isfile(lc_file_path)):
         os.remove(lc_file_path)
 
 
+# 定义lc路径
 lc_file_path = os.path.join(os.path.dirname(
     os.path.abspath(__file__)), 'lc.txt')
+
 urllib3.disable_warnings()
+
+# 定义机器人
 robot = Wcf(debug=False, block=True)
 
 if __name__ == "__main__":
     # 机器人启动显示
     print("机器人！启动！")
-    print("略过同步消息")  # 对分易同时接收太多消息会禁止账号签到
+    print("略过同步消息")
     time.sleep(5)
+    # 对分易同时接收太多签到码会禁止账号签到
     robot.enable_receiving_msg()
-    start_listen()
+    # 清除上一次的lc代码后开始监听本次lc代码，获得lc后清除通信用文本文件
     clearlc()
+    start_listen()
     getlc()
     clearlc()
+
     print("监听已结束，系统代理已关闭，请注意与其它代理软件的冲突")
     print("登录代码已获取，等待签到码中")
+
     while robot.is_receiving_msg():
         try:
             msg = robot.get_msg()
             if codejudge(msg.content):
                 checkin(msg.content)
         except Empty:
-            continue  # Empty message or other error
+            continue
