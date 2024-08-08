@@ -2,7 +2,7 @@
 
 以独立签到为目的，基于[wechatferry](https://github.com/lich0821/WeChatFerry)实现的对分易签到机器人
 
-在获得微信消息时可以自动签到
+通过微信消息获得签到码时可以自动签到，支持转发签到码至指定群聊
 
 原理：基于mitmproxy获取lc字段登录代码，使用request发包进行签到，而无需打开快速签到小程序
 
@@ -13,7 +13,9 @@
 1. 下载本项目所有文件到一个文件夹
 2. 使用`pip install -r requirements.txt`来安装本项目需要的库
 3. 安装且仅需要安装mitmproxy的CA证书，而不是mitmproxy，安装方法可参考：https://blog.csdn.net/feiyu68/article/details/119665869
-4. 运行main.py文件（注意终端的使用提示）
+4. 运行main.py文件
+5. 打开微信后，进入快速签到小程序，随便输入签到码进行签到（未来可能会自动化此过程）
+6. 等待微信中的4位数字签到码出现完成签到
 
 ## 已知bug
 
